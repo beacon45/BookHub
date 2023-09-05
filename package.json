@@ -1,6 +1,6 @@
 {
   "name": "book-gallery",
-  "homepage": "https://beacon45.github.io/BookHub/",
+  "homepage": "https://beacon45.github.io/BookHub",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
